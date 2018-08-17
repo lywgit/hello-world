@@ -6,6 +6,11 @@ Starting this page as a practice.
 
 Hope to get familiar with git.
 
-lywgit is my git account, lywang is also me.
+## Testing commit 
 
-commit through https will be prompt to enter git username (lywgit) and password.
+lywgit is my git account, lywang is also me.
+ 
+Commit through https will be prompted to enter git username (lywgit) and password. 
+Although the global git setup is user.name=lywang, the commit shows lywgit instead.
+ 
+
