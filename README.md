@@ -6,12 +6,11 @@ Starting this page as a practice.
 
 Hope to get familiar with git.
 
-## Testing commit 
+I also use this repo as a place to try out git.
 
-lywgit is my git account, lywang is also me.
- 
-Commit through https will be prompted to enter git username (lywgit) and password. 
-(Starting from the second time, the credential.helper=osxkeychain will help)
-Although the global git setup is user.name=lywang, the commit shows lywgit instead.
- 
+## Commit Author Name
+
+* "lywgit" is my git account name, some earlier commits of "lywang" is also me (committed with my other emails which I now add to my profile. So they show up as lywgit as well)
+
+
 
