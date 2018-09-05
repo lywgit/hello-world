@@ -5,10 +5,12 @@ Hello!
 This repo started as a practice to get familiar with git. Now I use it to expreiment with github.
 
 
-## Experiments
+## Experiment Log
 
-
-* [2018-09-05] Upload ipython notebook. It is rendered by github.
+### ipython notebook (2018-09-05)
+ 
+* Upload an [ipython notebook](jupyter_notebook/notebook_on_github.ipynb). It is rendered on github. But the loading speed is a bit slow.
+* The nbviewer site does this faster. Simply supply the url of the notebook on github will do. The same file can be viewed more quickly [here](http://nbviewer.jupyter.org/github/lywgit/hello-world/blob/master/jupyter_notebook/notebook_on_github.ipynb). 
 
 
 ## Note 
